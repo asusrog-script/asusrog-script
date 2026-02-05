@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**asusrog-script/asusrog-script** is a simple one stop script to install on Asus ROG/TUF laptops with nvidia GPUs✨
+**asusrog-script/asusrog-script** is a simple one stop script to install on Asus ROG/TUF laptops with nvidia GPUs running Fedora based distros✨
 
 What's in here:
 
